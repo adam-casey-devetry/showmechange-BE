@@ -1,2 +1,2 @@
-# showmechange-BE
+# Show Me Change-BE
 Backend repo for ShowMeChange
